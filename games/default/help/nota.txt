@@ -1,0 +1,12 @@
+Atenção Esta versão de Era dos Deuses foi feita com o plugger. Que é uma ferramenta que copia os arquivos do rtp usados no jogo para a sua pasta. Isso não garante que funcionará 100%.
+
+O install copiará os arquivos rm2000.fon e rmg2000.fon para a pasta "fonts" do windows.
+
+Caso depois da instalação o jogo não funcione, tente copiar estes arquivos de fonte manualmente.
+
+Qualquer falta de arquivos que o jogo notifique, por favor, envie-me um e-mail para que possa colocá-lo e enviá-lo para você.
+
+
+Obrigado e bom jogo!
+
+Ass. O Planeta (Marcos Côrtes)

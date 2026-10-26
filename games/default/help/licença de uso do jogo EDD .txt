@@ -1,0 +1,30 @@
+Licença do jogo Era dos Deuses
+
+   Primeiramente, obrigado por adquirir o jogo Era dos Deuses (posteriormente denominado pelas iniciais EDD neste documento) do site www.eradosdeuses.cjb.net ou de seu site Maker preferido. É com extrema gratidão e felicidade que Marcos Côrtes (criador do jogo EDD) venho dizer que foram 2 anos de trabalho duro e dedicação ao projeto de deste jogo, que agora chega a suas mãos em sua versão completa (não livre de bugs, mas completa e FUNCIONAL). E espero que este jogo, como disponibilizou a mim e as várias outras pessoas que testaram a versão BETA e BETA-TEST de EDD, várias horas de diversão.
+
+
+  Ao instalar este jogo em sua máquina, não procure nele um produto que disponibilize uma tecnologia de produção moderna e nova (mas não de má qualidade), lembre-se que é um jogo gratuito e sem fins lucrativos. Lembre-se sempre que está instalando um jogo que apresenta uma história nova, uma temática nova. De que está instalando um jogo que não foi uma simples brincadeira de final de semana, mas foi uma OBRA que foi foco de discussão de dezenas, e talvez centenas de pessoas. Que querem, de alguma forma, mostra seu modo de pensar, sua forma de ver ao mundo através de uma mídia totalmente nova e barata, O JOGO DE RPG.
+
+   Neste documento informa as várias cláusulas, digamos, "burocráticas" que não farão muita diferença se você simplesmente baixou o jogo EDD para jogar. Mas se você deseja por ele em seu site, fuçar o seu código, ou alguma outra coisa desta natureza, leia esta licença completamente para que o criador seja devidamente notificado.
+
+   - Ao instalar (copiar) o jogo EDD em sua máquina, está automaticamente aceitando os termos citados abaixo.
+
+   - O jogo EDD é um freeware, isto é, um jogo gratuito. Dando ao portador do seu executável de instalação o direito de instalá-lo ou copiá-lo para uma ou mais máquinas, SEM QUE HAJA FINS LUCRATIVOS OU DE DISTRIBUIÇÃO EM MASSA. Salvo os casos que entrem nas cláusulas abaixo.
+
+   - Por se de natureza freeware, o criador não se responsabiliza por qualquer dano que o programa de instalação, o jogo, ou os anexos possam fazer em seu computador.
+
+   - As cópias feitas em disquete, CD-ROM, servidores de internet, ou qualquer outra mídia, que vise à venda explícita do jogo EDD está COMPLETAMENTE PROIBIDA, já que fere os direitos autorais adquiridos por Marcos Côrtes ou pela firma "O Planeta software". Excluindo-se assim, a chance do jogo EDD seja distribuído de forma não freeware.
+
+   - Da cláusula acima, salva-se os casos em que o valor final da venda da mídia que contenha o jogo EDD esteja apenas contido o preço propriamente dito da mídia e dos serviços de que por ventura sejam usados. Neste caso, avise previamente o criador do jogo, Marcos Côrtes. (tecarioca@ig.com.br)
+
+   - A modificação das informações contidas no jogo, como imagens, mapas, databases, etc. São permitidas se os seus fins forem de uso PRIVADO e por motivos NÃO COMERCIAIS. A exemplo a modificação para "Cheatear" (Facilitar) o jogo. Modificações com o objetivo de se criar uma sub-versão de EDD para ser distribuída independentemente são proibidas, salvo a prévia aprovação do autor ou se a modificação se tratar de uma tradução para outro idioma
+
+   - Modificações nos créditos tanto dos exibidos no jogo ou nos exibidos nos anexos são proibidas.
+
+   - As instituições (sites por exemplo) citadas nos anexos ou nos créditos e no jogo, cujos nomes e logo-marcas não sejam de conhecimento público, foram devidamente avisadas de tal evento ou tais instituições disponibilizam documentos ou qualquer objeto desta natureza sobre a permissão do uso de seus nomes e logo-marcas.
+
+  - No caso das instituições de conhecimento público citadas nos anexos, no jogo e nos créditos, peço a compreensão e a tolerância caso haja alguma coisa que fira de alguma forma os seus direitos autorais, imagem, etc... O autor propõe uma retratação pública (não financeira), assim como a modificação imediata da causa no jogo EDD.
+
+  - As pessoas físicas citadas nos anexos, no jogo e nos créditos do jogo EDD foram devidamente avisadas sobre tal ato. Sendo o criador infinitamente grato por sua participação no jogo EDD.
+
+  - Deve-se lembrar que, o programa usado para a criação do jogo, é de natureza gratuita no BRASIL e em quase todo o mundo ocidental, porém, ele se trata de uma tradução de um maker criado no japão de mesmo nome. Sendo este um programa pago. Este fato vem pressionado a comunidade maker pois não existe legislação sobre programas traduzidos. Não se sabe se ele é um programa ilegal por ser de origem de um programa pago ou se ele é freeware pois não existe uma versão em português ou em inglês do programa RPG Maker produzida pela ASCII (hoje atual Enterbrain). Isto não afetará em nada a você que baixa o jogo, já que os jogos são programas a parte que podem ser distribuídos livremente. Mas é sempre bom lembrar disso caso você use o RPG Maker.
