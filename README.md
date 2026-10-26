@@ -4,7 +4,7 @@ Port para o navegador do jogo *Era dos Deuses* (RPG Maker 2000), executado pelo 
 
 O jogo abre direto em `index.html`. No GitHub Pages, a página do repositório é o jogo.
 
-++**Controles:++** setas para mover, Enter ou Espaço para confirmar, Esc para cancelar, Shift para correr. 
+**Controles:** setas para mover, Enter ou Espaço para confirmar, Esc para cancelar, Shift para correr. 
 
 O save fica no armazenamento do navegador.
 
